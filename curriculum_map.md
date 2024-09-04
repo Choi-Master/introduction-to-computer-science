@@ -1,16 +1,6 @@
-# 2nd Semester - Introduction to Computer Science Curriculum Map
+# Introduction to Computer Science Curriculum Map
 
 Materials and preparation resources can be found in each of the lesson pages.
-
-**Pacing Guidance:** 1 Day is a 55 minute class period.
-
-**Protected content** such as unit quizzes, quiz answer keys, project sample solutions can be accessed from the TEALS Dashboard in Additional Curriculum Materials.
-
-For TEALS schools in **BC, Canada**, please see [Aligning TEALS Python Teaching Resources with the BC Curriculum](CA_README.md).
-
-[Template Syllabus](IntrotoCSSyllabusExample.docx): Feel free to use this template to build a syllabus for your class.
-
-[Computer Science Teachers Association Standards Mapping](CSTA_standards_mapping.md)
 
 [Master Vocabulary](units/master_vocab.md)
 
