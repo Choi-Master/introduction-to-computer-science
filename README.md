@@ -1,4 +1,4 @@
-# A 2nd semester follow-up to the [TEALS Intro CS course](https://tealsk12.github.io/introduction-to-computer-science/)
+# Adopted from the [TEALS Intro CS course](https://tealsk12.github.io/introduction-to-computer-science/)
 
 * GitHub: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science
 * Github Pages: https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/
