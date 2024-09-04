@@ -1,20 +1,8 @@
 # Adopted from the [TEALS Intro CS course](https://tealsk12.github.io/introduction-to-computer-science/)
 
-* GitHub: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science
-* Github Pages: https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/
-
-The following has been deprecated after the 2019/20 school year:
-* GitBook: https://tealsk12.gitbooks.io/2nd-semester-introduction-to-computer-science/content/
-
 ## About this curriculum
 
-Welcome to the TEALS Intro to Computer Science Second Semester Curriculum. This curriculum is intended for use by TEALS classrooms teaching Introduction to Computer Science in a yearlong format. We expect that students have completed the content from the [1st semester course](https://tealsk12.github.io/introduction-to-computer-science/) prior to this curriculum.
-
-For TEALS schools in BC, Canada, please see [Aligning TEALS Python Teaching Resources with the BC Curriculum](CA_README.md).
-
-## Protected materials
-
-Protected content such as unit quizzes, quiz answer keys, project sample solutions are available to those with a TEALS Dashboard account. Please email info@tealsk12.org for access information.
+Welcome to the Intro to Computer Science Curriculum. This curriculum is intended for teaching Introduction to Computer Science.
 
 ## Associated Readings
 
